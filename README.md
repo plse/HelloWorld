@@ -1,4 +1,4 @@
 HelloWorld
 ==========
 
-Simple HelloWorld application used to test various plugins
+Simple HelloWorld web application used to test various plugins
